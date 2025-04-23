@@ -1,6 +1,6 @@
 # 🌎 Mapa do Índice de Gini por Município Brasileiro
 
-Este projeto tem como objetivo visualizar a distribuição da desigualdade social no Brasil através do Índice de Gini por município, utilizando dados do Censo 2010 e bibliotecas como GeoPandas, Matplotlib e NumPy.
+Este projeto tem como objetivo visualizar a distribuição da desigualdade social no Brasil através do Índice de Gini por município, utilizando dados do Censo 2010 e as bibliotecas GeoPandas, Matplotlib e Pandas.
 
 ---
 
@@ -43,8 +43,7 @@ O mapa utiliza uma escala de cores **"coolwarm"**, onde:
 
 ## 📊 Tecnologias e Bibliotecas Utilizadas
 
-- Pandas  
-- NumPy  
+- Pandas    
 - GeoPandas  
 - Matplotlib  
 
